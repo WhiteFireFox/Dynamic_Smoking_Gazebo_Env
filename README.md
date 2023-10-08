@@ -3,24 +3,24 @@
 <table width="100%">
 <tr>
 	<td width="33%">
-		<img src="./material/image1.gif" width="100%" height="200px">
+		<img src="./material/image1.gif" width="100%" height="160px">
 	</td>
     <td width="33%">
-		<img src="./material/image2.gif" width="100%" height="200px">
+		<img src="./material/image2.gif" width="100%" height="160px">
 	</td>
     <td width="33%">
-		<img src="./material/image3.gif" width="100%" height="200px">
+		<img src="./material/image3.gif" width="100%" height="160px">
 	</td>
 </tr>
 <tr>
 	<td width="33%">
-		<img src="./material/image4.gif" width="100%" height="200px">
+		<img src="./material/image4.gif" width="100%" height="160px">
 	</td>
     <td width="33%">
-		<img src="./material/image5.gif" width="100%" height="200px">
+		<img src="./material/image5.gif" width="100%" height="160px">
 	</td>
     <td width="33%">
-		<img src="./material/image6.gif" width="100%" height="200px">
+		<img src="./material/image6.gif" width="100%" height="160px">
 	</td>
 </tr>
 </table>
